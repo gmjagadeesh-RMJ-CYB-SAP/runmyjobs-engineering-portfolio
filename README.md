@@ -38,3 +38,17 @@ The rehearsal uses invented workflows and observations. It demonstrates how I re
 At 08:07 UTC the correct row is parent 71, child 810, **Waiting for input**. A late completion for 850 and a stale message for 810 must both leave that result intact. The completed child remains visible after 08:12.
 
 The public materials are case studies and demonstrations. Implementation source is private. To request an interview walkthrough or discuss a specific source review, [contact me on LinkedIn](https://www.linkedin.com/in/jagadeeshrmj/). Any source review requires my explicit approval.
+
+
+## Choose a private interview walkthrough
+
+These are fictional prompts I can work through in an interview. Pick one that resembles a decision your team faces.
+
+| Area | Question for the walkthrough |
+| --- | --- |
+| Business workflow launcher | A finance user covers a colleague’s shift. Which workflows should they see, and which can they submit? |
+| Automic / UC4 migration | The same wrapper runs twice during close. Could one call be wrong even when both jobs finish green? |
+| SAP ABAP | The daily run is correct, but month-end produces the daily output. What would convince us that the right variant ran? |
+| Queue and process-server monitoring | Several teams see jobs waiting at once. How many incidents should operations open, and who owns the first response? |
+| JD Edwards | Two dispatch reports finish a minute apart. How can the receiving team tell which document belongs to its request? |
+| Informatica | A second submission reports that a run is still active. Would waiting, resubmitting or escalating put the business at risk? |
